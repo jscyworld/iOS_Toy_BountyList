@@ -13,6 +13,7 @@
 		03220C612B05ED5600B94366 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 03220C602B05ED5600B94366 /* Assets.xcassets */; };
 		03220C642B05ED5600B94366 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 03220C622B05ED5600B94366 /* LaunchScreen.storyboard */; };
 		03220C6E2B05F03100B94366 /* BountyViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03220C6D2B05F03100B94366 /* BountyViewController.swift */; };
+		03220C702B05F8EF00B94366 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03220C6F2B05F8EF00B94366 /* DetailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		03220C632B05ED5600B94366 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		03220C652B05ED5600B94366 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		03220C6D2B05F03100B94366 /* BountyViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BountyViewController.swift; sourceTree = "<group>"; };
+		03220C6F2B05F8EF00B94366 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				03220C572B05ED5300B94366 /* AppDelegate.swift */,
 				03220C592B05ED5300B94366 /* SceneDelegate.swift */,
 				03220C6D2B05F03100B94366 /* BountyViewController.swift */,
+				03220C6F2B05F8EF00B94366 /* DetailViewController.swift */,
 				03220C5D2B05ED5300B94366 /* Main.storyboard */,
 				03220C602B05ED5600B94366 /* Assets.xcassets */,
 				03220C622B05ED5600B94366 /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				03220C582B05ED5300B94366 /* AppDelegate.swift in Sources */,
 				03220C6E2B05F03100B94366 /* BountyViewController.swift in Sources */,
 				03220C5A2B05ED5300B94366 /* SceneDelegate.swift in Sources */,
+				03220C702B05F8EF00B94366 /* DetailViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
